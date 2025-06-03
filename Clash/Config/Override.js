@@ -919,7 +919,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png",
     proxies: ["Nexitally香港节点(select)", "AIFUN香港节点(select)", "NEXAIR香港节点(select)", "Kuromi香港节点(select)", "ChinaAirport香港节点(select)"]
 
@@ -933,7 +932,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/refs/heads/main/icon/taiwan(2).png",    
     proxies: ["Nexitally台湾节点(select)", "AIFUN台湾节点(select)", "NEXAIR台湾节点(select)", "Kuromi台湾节点(select)", "ChinaAirport台湾节点(select)"]
 
@@ -947,7 +945,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png",
     proxies: ["Nexitally新加坡节点(select)", "AIFUN新加坡节点(select)", "NEXAIR新加坡节点(select)", "Kuromi新加坡节点(select)", "ChinaAirport新加坡节点(select)"]
     
@@ -961,7 +958,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png",
     proxies: ["Nexitally日本节点(select)", "NEXAIR日本节点(select)", "AIFUN日本节点(select)", "Kuromi日本节点(select)", "ChinaAirport日本节点(select)"]
 
@@ -975,7 +971,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png",
     proxies: ["Nexitally美国节点(select)", "AIFUN美国节点(select)", "NEXAIR美国节点(select)", "Kuromi美国节点(select)", "ChinaAirport美国节点(select)"]
 
@@ -989,7 +984,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/European_Union.png",
     proxies: ["Nexitally欧洲节点(select)", "AIFUN欧洲节点(select)", "NEXAIR欧洲节点(select)", "Kuromi欧洲节点(select)", "ChinaAirport欧洲节点(select)"]
 
