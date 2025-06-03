@@ -188,7 +188,6 @@ function main(config) {
       "proxies": ["香港节点(url-test)", "台湾节点(url-test)", "新加坡节点(url-test)", "日本节点(url-test)", "美国节点(url-test)", "欧洲节点(url-test)", "香港节点(select)", "台湾节点(select)", "新加坡节点(select)", "日本节点(select)", "美国节点(select)", "欧洲节点(select)", "Nexitally香港节点(url-test)", "Nexitally台湾节点(url-test)", "Nexitally新加坡节点(url-test)", "Nexitally日本节点(url-test)", "Nexitally美国节点(url-test)", "Nexitally欧洲节点(url-test)", "Nexitally香港节点(select)", "Nexitally台湾节点(select)", "Nexitally新加坡节点(select)", "Nexitally日本节点(select)", "Nexitally美国节点(select)", "Nexitally欧洲节点(select)", "AIFUN香港节点(url-test)", "AIFUN台湾节点(url-test)", "AIFUN新加坡节点(url-test)", "AIFUN日本节点(url-test)", "AIFUN美国节点(url-test)", "AIFUN欧洲节点(url-test)", "AIFUN香港节点(select)", "AIFUN台湾节点(select)", "AIFUN新加坡节点(select)", "AIFUN日本节点(select)", "AIFUN美国节点(select)", "AIFUN欧洲节点(select)", "NEXAIR香港节点(url-test)", "NEXAIR台湾节点(url-test)", "NEXAIR新加坡节点(url-test)", "NEXAIR日本节点(url-test)", "NEXAIR美国节点(url-test)", "NEXAIR欧洲节点(url-test)", "NEXAIR香港节点(select)", "NEXAIR台湾节点(select)", "NEXAIR新加坡节点(select)", "NEXAIR日本节点(select)", "NEXAIR美国节点(select)", "NEXAIR欧洲节点(select)", "Kuromi香港节点(url-test)", "Kuromi台湾节点(url-test)", "Kuromi新加坡节点(url-test)", "Kuromi日本节点(url-test)", "Kuromi美国节点(url-test)", "Kuromi欧洲节点(url-test)", "Kuromi香港节点(select)", "Kuromi台湾节点(select)", "Kuromi新加坡节点(select)", "Kuromi日本节点(select)", "Kuromi美国节点(select)", "Kuromi欧洲节点(select)", "ChinaAirport香港节点(url-test)", "ChinaAirport台湾节点(url-test)", "ChinaAirport新加坡节点(url-test)", "ChinaAirport日本节点(url-test)", "ChinaAirport美国节点(url-test)", "ChinaAirport欧洲节点(url-test)", "ChinaAirport香港节点(select)", "ChinaAirport台湾节点(select)", "ChinaAirport新加坡节点(select)", "ChinaAirport日本节点(select)", "ChinaAirport美国节点(select)", "ChinaAirport欧洲节点(select)", "AIFUN节点", "Nexitally节点", "NEXAIR节点", "Kuromi节点", "ChinaAirport节点"],
      "icon": "https://fastly.jsdelivr.net/gh/Semporia/Hand-Painted-icon@master/Google_Suite/Voice.png"
     },
-
     {
       ...groupBaseOption,
       "name": "Google",
@@ -1365,8 +1364,6 @@ function main(config) {
       "exclude-filter": "Days Left|国内|国际|工单|重置|套餐|回国|官网|Premium|GB|Expire Date|Traffic Reset|Nexitally|AIFUN|NEXAIR|ChinaAirport",
       "filter": "(?i)德国|法国|荷兰|意大利|西班牙|土耳其|挪威|瑞士|瑞典|爱尔兰|芬兰|丹麦|波兰|匈牙利|英国|UK|比利时|卢森堡|希腊|葡萄牙|俄罗斯|爱尔兰|斯洛伐克|保加利亚|塞尔维亚|克罗地亚|奥地利|摩纳哥|立陶宛|拉脱维亚|罗马尼亚|捷克|乌克兰|Germany|France|Netherlands|Italy|Spain|Turkey|Norway|Switzerland|Sweden|Ireland|Finland|Denmark|Poland|Hungary|UnitedKingdom|UK|Belgium|Luxembourg|Greece|Portugal|Russia|Ireland|Slovakia|Bulgaria|Serbia|Croatia|Austria|Monaco|Lithuania|Latvia|Romania|Czech|Republic|Ukraine|🇩🇪|🇫🇷|🇳🇱|🇮🇹|🇪🇸|🇹🇷|🇳🇴|🇨🇭|🇸🇪|🇮🇪|🇫🇮|🇩🇰|🇵🇱|🇭🇺|🇧🇪|🇱🇺|🇬🇷|🇵🇹|🇦🇹|🇱🇹|🇱🇻|🇷🇴|🇨🇿|🌍|🇺🇦|🇬🇧|🇷🇺|🇮🇪|🇸🇰|🇧🇬|🇷🇸|🇭🇷|🇲🇨",
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/European_Union.png",
-
-
     },
     {
       ...groupBaseOption,
@@ -1381,9 +1378,6 @@ function main(config) {
       "exclude-filter": "Days Left|国内|国际|工单|重置|套餐|回国|官网|Premium|GB|Expire Date|Traffic Reset|Kuromi|AIFUN|Nexitally|NEXAIR",
       "filter": "(?i)🇭🇰|香港|Hong|HK",
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png",
-    },
-    {
-      ...groupBaseOption,
     },
     {
       ...groupBaseOption,
