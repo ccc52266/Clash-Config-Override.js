@@ -393,7 +393,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png",
       "proxies": ["Nexitally香港节点(url-test)", "AIFUN香港节点(url-test)", "NEXAIR香港节点(url-test)", "Kuromi香港节点(url-test)"]
     },
@@ -406,7 +405,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/refs/heads/main/icon/taiwan(2).png",    
       "proxies": ["Nexitally台湾节点(url-test)", "AIFUN台湾节点(url-test)", "NEXAIR台湾节点(url-test)", "Kuromi台湾节点(url-test)"]
     },
@@ -419,7 +417,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png",
       "proxies": ["Nexitally新加坡节点(url-test)", "AIFUN新加坡节点(url-test)", "NEXAIR新加坡节点(url-test)", "Kuromi新加坡节点(url-test)"]
     },
@@ -432,7 +429,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png",
       "proxies": ["Nexitally日本节点(url-test)", "AIFUN日本节点(url-test)", "NEXAIR日本节点(url-test)", "Kuromi日本节点(url-test)"]
     },
@@ -445,7 +441,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png",
       "proxies": ["Nexitally美国节点(url-test)", "AIFUN美国节点(url-test)", "NEXAIR美国节点(url-test)", "Kuromi美国节点(url-test)"]
     },
@@ -458,7 +453,6 @@ function main(config) {
       "mptcp": true,
       "udp-over-tcp": true,
       "udp-over-tcp-version": "2",
-      "include-all": true, 
       "icon": "https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/European_Union.png",
       "proxies": ["Nexitally欧洲节点(url-test)", "AIFUN欧洲节点(url-test)", "NEXAIR欧洲节点(url-test)", "Kuromi欧洲节点(url-test)"]
     },
