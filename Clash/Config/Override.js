@@ -11,7 +11,7 @@ const ruleProviderCommon = {
 // 策略组通用配置
 const groupBaseOption = {
   "interval": 300,
-  "url": "http://www.gstatic.com/generate_204",
+  "url": "http://www.apple.com/library/test/success.html",
   "max-failed-times": 3,
 };
 
